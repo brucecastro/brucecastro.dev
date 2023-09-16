@@ -1,11 +1,10 @@
 # brucecastro.dev Personal Website (Nuxt 3)
 
-## Overview of the project
+## Overview
 
-- Based off of Nuxt 3 starter
+- Built on Nuxt 3
+- Uses [Water.css](https://github.com/kognise/water.css) theme
 - ESLint
-
-
 
 ## Setup
 

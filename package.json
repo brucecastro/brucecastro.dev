@@ -7,11 +7,14 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@nuxtjs/google-fonts": "^3.0.2",
     "eslint": "^8.49.0",
     "nuxt": "^3.7.3"
   }
