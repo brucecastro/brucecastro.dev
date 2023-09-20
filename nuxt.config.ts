@@ -7,6 +7,6 @@ export default defineNuxtConfig({
   ],
   modules: [
     '@nuxtjs/eslint-module',
-    ['@nuxtjs/google-fonts', { families: { 'Open Sans': true, Poppins: true } }]
+    ['@nuxtjs/google-fonts', { families: { 'Open Sans': true, Sora: true } }]
   ]
 })
