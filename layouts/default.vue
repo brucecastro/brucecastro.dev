@@ -56,6 +56,7 @@
   }
   .footer {
     margin-top:auto;
+    z-index:0;
   }
 }
 

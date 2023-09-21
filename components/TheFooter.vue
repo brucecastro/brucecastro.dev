@@ -9,7 +9,7 @@
 
 <style scoped>
 footer {
-  background-color: #404040;
+  background-color: #1a232f;
   text-align: center;
 }
 

@@ -31,8 +31,12 @@ p {
   margin-bottom: 30px;
 }
 
+a {
+  color: #569ace;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #7eabce;
+  color: #95b8d2;
 }
