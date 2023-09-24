@@ -37,7 +37,8 @@
 .experience {
   p, ul {
     font-family: Garamond, 'Times New Roman', Times, serif;
-    letter-spacing: .3px;
+    font-size: 1.1rem;
+    line-height: 1.4;
   }
 
   h2, h3 {
@@ -59,6 +60,10 @@
 
   ul {
     list-style-type: square;
+  }
+
+  li {
+    margin-bottom: 5px;
   }
 
   .notice {

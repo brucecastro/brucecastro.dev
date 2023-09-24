@@ -58,28 +58,29 @@ ul.skills {
   box-sizing:content-box;
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  flex-direction: column;
   padding: 0;
   list-style: none;
   gap: 20px;
 
   li {
     box-sizing: border-box;
-    flex: 0 1 auto;
-    min-width: 200px;
+    flex: 1 1 auto;
     padding: 20px 25px;
-    background: radial-gradient(ellipse at 90% 90%, #283b4f 0%, #1d2733 60%);
     border: 1px solid rgb(44, 57, 72);
     box-shadow: 1px 0px 1px 0px rgb(17, 25, 34);
-    border-radius: 10px;
+    border-radius: 5px;
+    background-color: #1a232f;
   }
 
   h3 {
     font-weight: 300;
+    text-decoration: underline;
   }
 
   p {
-    font-size: .9rem;
+    font-size: .95rem;
+    text-align: justify;
   }
 }
 </style>

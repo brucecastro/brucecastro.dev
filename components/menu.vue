@@ -25,11 +25,11 @@
             Experience
           </NuxtLink>
         </li>
-        <li>
+        <!-- <li>
           <NuxtLink to="/contact">
             Contact
           </NuxtLink>
-        </li>
+        </li> -->
       </ul>
     </nav>
   </div>
