@@ -1,5 +1,5 @@
 <template>
-  <div :class="['menu', {active}]">
+  <div :class="['menu', { active }]">
     <div class="menu-btn" @click="toggleMenu">
       <span>&nbsp;</span>
     </div>
@@ -13,6 +13,11 @@
         <li>
           <NuxtLink to="/skills">
             Skills
+          </NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/projects">
+            Projects
           </NuxtLink>
         </li>
         <li>
@@ -57,8 +62,8 @@ export default {
 .menu-items {
   display: flex;
   flex-direction: column;
-  justify-content:center;
   height: 100vh;
+  padding-top:110px;
 
   ul {
     list-style-type: none;
@@ -83,19 +88,19 @@ export default {
     position:absolute;
     top:0;
     left:0;
-    width: 50%;
+    width: 45%;
     flex-direction: row;
+    justify-content: end;
     padding-top:50px;
+    padding-right:20px;
     background-color: #1b2b3e;
     box-shadow: 1px 0px 4px 1px rgb(17, 25, 34);
-    transform: translate(-150%);
+    transform: translate(-130%);
     transition: transform 0.5s ease-in-out;
   }
 
   .active .menu-items {
     position: fixed;
-    display: flex;
-    left: 0;
     transform: translateX(0);
   }
 

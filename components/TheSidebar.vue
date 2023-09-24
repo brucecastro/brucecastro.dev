@@ -19,10 +19,7 @@ aside {
 
   .brand {
     font-family: Sora, Arial, sans-serif;
-    text-transform: uppercase;
-    font-size: 1.1rem;
     letter-spacing: 1px;
-    text-align:center;
     user-select: none;
   }
 

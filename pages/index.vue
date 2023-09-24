@@ -1,26 +1,35 @@
+<!-- eslint-disable vue/singleline-html-element-content-newline -->
 <template>
-  <div>
+  <div class="about">
     <h1>Hi, I'm Bruce Castro.</h1>
-    <div>
-      <p>
-        I'm a Sr. Full-Stack Engineer with 11 years of experience building solutions
-        for the web, empowering teams members to grow, and fostering a healthy
-        company culture through encouraging feedback and positive relationships.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl velit,
-        interdum id nunc at, sollicitudin semper arcu. Maecenas eget enim tempus,
-        dapibus turpis sagittis, interdum urna. Morbi rutrum enim non augue
-        bibendum, quis dignissim dui rhoncus. Nulla molestie est a eros luctus
-        scelerisque. Duis ut molestie est, vel tincidunt ante. Vestibulum felis
-        ligula, ultrices vitae sem vestibulum, faucibus pretium quam. Vestibulum
-        eu interdum arcu.
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl velit,
-        interdum id nunc at, sollicitudin semper arcu. Maecenas eget enim tempus,
-        dapibus turpis sagittis, interdum urna.
-      </p>
-    </div>
+    <p>
+      I'm a Full-Stack Engineer (PHP, Node.js and Vue.js) with 11 years of
+      experience creating high-quality solutions for the web, and to support highly effective teams.
+    </p>
+    <p>
+      My experience with PHP has been largely with Wordpress, developing features and plugins
+      for production, high-revenue generating websites. On the other hand, Node.js has
+      been at the forefront of various business-critical projects I have built on
+      Serverless architecture (GCP). I also possess extensive Frontend experience with
+      Javascript and jQuery, and more recently in Vue.js.
+    </p>
+    <p>
+      Finally, I am familiar with scaling a development team, its resources and processes,
+      as well as coordinating with other leaders. As a leader I care about the wellbeing
+      of the team, believe in empathic communication, spend time to mentor others,
+      take ownership of the projects I work on, foster innovation,
+      and strongly support a healthy culture through encouraging feedback, clear communication,
+      and positive relationships.
+    </p>
+    <p>
+      I invite you to see my <NuxtLink to="/experience">experience</NuxtLink> in more detail,
+      or explore a few recent <NuxtLink to="/projects">projects</NuxtLink>.
+    </p>
   </div>
 </template>
+
+<style>
+.about p {
+  text-align: justify;
+}
+</style>
