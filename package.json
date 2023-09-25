@@ -15,7 +15,10 @@
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/google-fonts": "^3.0.2",
+    "@types/aos": "^3.0.5",
+    "aos": "^2.3.4",
     "eslint": "^8.49.0",
-    "nuxt": "^3.7.3"
+    "nuxt": "^3.7.3",
+    "vue-typewriter-effect": "^1.0.1"
   }
 }

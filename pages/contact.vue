@@ -1,3 +1,3 @@
 <template>
-  <div>Contact form goes here</div>
+  <div>[Placeholder] Contact form would go here</div>
 </template>

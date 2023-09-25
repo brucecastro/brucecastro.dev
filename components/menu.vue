@@ -5,22 +5,22 @@
     </div>
     <nav class="menu-items">
       <ul @click="closeMenu">
-        <li>
+        <li data-aos="fade-right">
           <NuxtLink to="/">
             About
           </NuxtLink>
         </li>
-        <li>
+        <li data-aos="fade-right" data-aos-delay="150">
           <NuxtLink to="/skills">
             Skills
           </NuxtLink>
         </li>
-        <li>
+        <li data-aos="fade-right" data-aos-delay="250">
           <NuxtLink to="/projects">
             Projects
           </NuxtLink>
         </li>
-        <li>
+        <li data-aos="fade-right" data-aos-delay="350">
           <NuxtLink to="/experience">
             Experience
           </NuxtLink>

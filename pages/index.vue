@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/singleline-html-element-content-newline -->
 <template>
   <div class="about">
-    <h1>Hi, I'm Bruce Castro.</h1>
+    <h1 class="typewriter">Hi, I'm <vue-typewriter-effect :strings="['Bruce Castro.', 'an Engineer.', 'a Leader.']" /></h1>
     <p>
       I'm a Full-Stack Engineer (PHP, Node.js and Vue.js) with 11 years of
       experience creating high-quality solutions for the web, and to support highly effective teams.

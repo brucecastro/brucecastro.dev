@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/singleline-html-element-content-newline -->
 <template>
   <div class="experience">
-    <h1>Experience.</h1>
+    <h1><vue-typewriter-effect :strings="['Experience.']" :pause-for="8000" cursor="" /></h1>
     <h2>Generous Industries</h2>
     <div class="subtitle"><span>Senior Full-Stack Engineer</span><span>Dec 2022 - Jul 2023</span></div>
     <ul>
