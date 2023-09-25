@@ -19,6 +19,7 @@
     "aos": "^2.3.4",
     "eslint": "^8.49.0",
     "nuxt": "^3.7.3",
+    "postcss-nested": "^6.0.1",
     "vue-typewriter-effect": "^1.0.1"
   }
 }

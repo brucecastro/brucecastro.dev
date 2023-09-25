@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/singleline-html-element-content-newline -->
 <template>
   <div class="about">
-    <h1 class="typewriter">Hi, I'm <vue-typewriter-effect :strings="['Bruce Castro.', 'an Engineer.', 'a Leader.']" /></h1>
+    <h1 class="typewriter">Hi, I'm <vue-typewriter-effect :strings="['Bruce Castro.', 'an Engineer.', 'a Team Lead.']" /></h1>
     <p>
       I'm a Full-Stack Engineer (PHP, Node.js and Vue.js) with 11 years of
       experience creating high-quality solutions for the web, and to support highly effective teams.
@@ -31,5 +31,11 @@
 <style>
 .about p {
   text-align: justify;
+}
+
+@media screen and (max-width:530px) {
+  h1.typewriter {
+    font-size:2.1em;
+  }
 }
 </style>

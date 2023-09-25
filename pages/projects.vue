@@ -2,21 +2,21 @@
   <div>
     <h1><vue-typewriter-effect :strings="['Projects.']" :pause-for="8000" cursor="" /></h1>
     <ul class="projects">
-      <li data-aos="zoom-out-up" data-aos-duration="500">
+      <li>
         <h3><a href="https://github.com/brucecastro/consolidate-stats">consolidate-stats</a></h3>
         <p>
           Node.js Cloud Function that fetches key statistics from multiple sources in various formats,
           normalizes the data, and stores it in BigQuery.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="400">
+      <li>
         <h3><a href="https://github.com/brucecastro/debtplanner-api">Debt Planner</a></h3>
         <p>
           Node.js API that calculates a highly-optimized payment schedule for multiple debts.
           Implemented with AWS CDK to define infrastructure as code.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="800">
+      <li>
         <h3><a href="https://github.com/brucecastro/brucecastro.dev">brucecastro.dev</a></h3>
         <p>This website, built with Nuxt.</p>
       </li>

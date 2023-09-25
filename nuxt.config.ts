@@ -5,6 +5,11 @@ export default defineNuxtConfig({
     '~/assets/css/water.min.css',
     '~/assets/css/main.css'
   ],
+  postcss: {
+    plugins: {
+      'postcss-nested': {}
+    }
+  },
   components: [
     { path: '~/node_modules/vue-typewriter-effect/dist' },
     { path: '~/components' }
