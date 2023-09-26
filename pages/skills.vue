@@ -6,18 +6,18 @@
         <h3>Backend</h3>
         <p>
           4 years accumulating Node.js experience, solving business data visibility challenges.
-          11 years mastering PHP, developing plugins for Wordpress
+          11 years mastering PHP, and developing plugins for Wordpress
           and productivity features for content managers.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="100">
+      <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="100">
         <h3>Frontend</h3>
         <p>
           11 years creating with HTML, CSS3, and Javascript, delivering pixel-perfect,
           beautifully functional interfaces that users love to use, and also convert.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="200">
+      <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="200">
         <h3>Solutions Architect</h3>
         <p>
           Passion for using technology to solve real-world problems. Asking thoughtful questions fuels my
@@ -25,7 +25,7 @@
           with a clear solution path.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="300">
+      <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="300">
         <h3>Leadership</h3>
         <p>
           4 years building, and mentoring a team of Engineers, while supporting the growth of
@@ -34,7 +34,7 @@
           and aligning priorities to achieve difficult goals.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="400">
+      <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="400">
         <h3>Detail-oriented</h3>
         <p>
           Writing clean, testable code, and adhering to best practices as much as possible.
@@ -42,7 +42,7 @@
           break down complexity for stakeholders.
         </p>
       </li>
-      <li data-aos="zoom-out-up" data-aos-duration="500" data-aos-delay="500">
+      <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="500">
         <h3>Speed Optimization</h3>
         <p>
           Expert in all aspects of page speed performance analysis and optimization.

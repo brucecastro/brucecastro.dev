@@ -76,6 +76,10 @@ export default {
   li {
     margin: 20px 0;
   }
+
+  .router-link-active {
+    color:#95b8d2;
+  }
 }
 
 .menu-btn {

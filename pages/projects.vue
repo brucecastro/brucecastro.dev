@@ -3,14 +3,14 @@
     <h1><vue-typewriter-effect :strings="['Projects.']" :pause-for="8000" cursor="" /></h1>
     <ul class="projects">
       <li>
-        <h3><a href="https://github.com/brucecastro/consolidate-stats">consolidate-stats</a></h3>
+        <h3><a href="https://github.com/brucecastro/consolidate-stats">consolidate stats</a></h3>
         <p>
           Node.js Cloud Function that fetches key statistics from multiple sources in various formats,
           normalizes the data, and stores it in BigQuery.
         </p>
       </li>
       <li>
-        <h3><a href="https://github.com/brucecastro/debtplanner-api">Debt Planner</a></h3>
+        <h3><a href="https://github.com/brucecastro/debtplanner-api">debt planner</a></h3>
         <p>
           Node.js API that calculates a highly-optimized payment schedule for multiple debts.
           Implemented with AWS CDK to define infrastructure as code.
@@ -22,7 +22,7 @@
       </li>
     </ul>
     <p class="notice">
-      There are other private samples available, please reach out for more
+      A few private projects are available, please reach out to see more
     </p>
   </div>
 </template>

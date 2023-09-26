@@ -29,7 +29,7 @@
       <li>Development of 2 iOS apps for online marketplaces (Objective-C)</li>
     </ul>
 
-    <p class="notice">Please reach out for more details, or resume</p>
+    <p class="notice">This is just a brief overview. Please reach out for the complete resume.</p>
   </div>
 </template>
 

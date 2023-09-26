@@ -15,7 +15,7 @@
     </p>
     <p>
       Finally, I am familiar with scaling a development team, its resources and processes,
-      as well as coordinating with other leaders. As a leader I care about the wellbeing
+      as well as coordinating with other leaders. As a leader I care about the well-being
       of the team, believe in empathic communication, spend time to mentor others,
       take ownership of the projects I work on, foster innovation,
       and strongly support a healthy culture through encouraging feedback, clear communication,
@@ -35,7 +35,13 @@
 
 @media screen and (max-width:530px) {
   h1.typewriter {
-    font-size:2.1em;
+    font-size: 2.1em;
+  }
+}
+
+@media screen and (max-width:400px) {
+  h1.typewriter {
+    font-size: 1.6em;
   }
 }
 </style>
