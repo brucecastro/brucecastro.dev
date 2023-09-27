@@ -11,6 +11,15 @@
   </div>
 </template>
 
+<script setup lang="ts">
+
+useHead({
+  titleTemplate: (titleChunk) => {
+    return titleChunk ? `Bruce Castro - ${titleChunk}` : 'Bruce Castro'
+  }
+})
+</script>
+
 <style>
 .layout.default {
   position: relative;
@@ -18,13 +27,6 @@
   flex-wrap: wrap;
   min-height: 100vh;
   margin: 0 auto;
-}
-
-.sidebar {
-  position: relative;
-  flex-shrink: 0;
-  width: 30%;
-  z-index: 1;
 }
 
 #main {
@@ -45,10 +47,8 @@
   }
 
   #main {
-    padding: 2rem;
-  }
-  .sidebar{
-    width: auto;
+    max-width: none;
+    padding: 100px 20px 20px;
   }
 
   #main {

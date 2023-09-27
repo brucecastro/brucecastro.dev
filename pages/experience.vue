@@ -33,6 +33,12 @@
   </div>
 </template>
 
+<script setup lang="ts">
+useHead({
+  title: 'Experience'
+})
+</script>
+
 <style>
 .experience {
   p, ul {
@@ -47,7 +53,7 @@
   }
 
   h2 {
-    padding:15px 0 5px;
+    padding-bottom:5px;
     border-bottom: 1px solid #ccc;
   }
 
@@ -60,6 +66,7 @@
 
   ul {
     list-style-type: square;
+    margin-bottom: 45px;
   }
 
   li {

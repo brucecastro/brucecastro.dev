@@ -10,7 +10,7 @@
         </p>
       </li>
       <li>
-        <h3><a href="https://github.com/brucecastro/debtplanner-api">debt planner</a></h3>
+        <h3><a href="https://github.com/brucecastro/debt-planner-api">debt planner</a></h3>
         <p>
           Node.js API that calculates a highly-optimized payment schedule for multiple debts.
           Implemented with AWS CDK to define infrastructure as code.
@@ -26,6 +26,12 @@
     </p>
   </div>
 </template>
+
+<script setup lang="ts">
+useHead({
+  title: 'Projects'
+})
+</script>
 
 <style>
 ul.projects {

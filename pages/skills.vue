@@ -53,6 +53,12 @@
   </div>
 </template>
 
+<script setup lang="ts">
+useHead({
+  title: 'Skills'
+})
+</script>
+
 <style>
 ul.skills {
   box-sizing:content-box;

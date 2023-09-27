@@ -77,6 +77,9 @@ export default {
     margin: 20px 0;
   }
 
+  a {
+    padding:10px 0;
+  }
   .router-link-active {
     color:#95b8d2;
   }
