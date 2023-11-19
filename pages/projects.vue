@@ -3,26 +3,26 @@
     <h1><vue-typewriter-effect :strings="['Projects.']" :pause-for="8000" cursor="" /></h1>
     <ul class="projects">
       <li>
-        <h3><a href="https://github.com/brucecastro/consolidate-stats">consolidate stats</a></h3>
+        <h3><a href="https://github.com/brucecastro/debt-planner-api">debt-planner</a></h3>
         <p>
-          Node.js Cloud Function that fetches key statistics from multiple sources in various formats,
-          normalizes the data, and stores it in BigQuery.
-        </p>
-      </li>
-      <li>
-        <h3><a href="https://github.com/brucecastro/debt-planner-api">debt planner</a></h3>
-        <p>
-          Node.js API that calculates a highly-optimized payment schedule for multiple debts.
+          A Node.js API that calculates a highly-optimized payment schedule for multiple debts.
           Implemented with AWS CDK to define infrastructure as code.
         </p>
       </li>
       <li>
+        <h3><a href="https://github.com/brucecastro/nuxt-starter">nuxt-starter</a></h3>
+        <p>
+          A custom Nuxt 3 starter template that explores fetching data from a Headless Wordpress backend,
+          querying Advanced Custom Fields, and deploying statically to Cloudflare Pages.
+        </p>
+      </li>
+      <li>
         <h3><a href="https://github.com/brucecastro/brucecastro.dev">brucecastro.dev</a></h3>
-        <p>This website, built with Nuxt.</p>
+        <p>This website, built in Nuxt 3.</p>
       </li>
     </ul>
     <p class="notice">
-      A few private projects are available, please reach out to see more
+      A few other private projects are available, please reach out to review.
     </p>
   </div>
 </template>

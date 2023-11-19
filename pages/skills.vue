@@ -45,7 +45,7 @@
       <li data-aos="zoom-out-up" data-aos-duration="400" data-aos-delay="500">
         <h3>Speed Optimization</h3>
         <p>
-          Expert in all aspects of page speed performance analysis and optimization.
+          Expert in all aspects of page speed performance and Core Web Vitals analysis and optimization.
           From caching and CDN configuration, all the way to asset bundling, and lazy-loading.
         </p>
       </li>

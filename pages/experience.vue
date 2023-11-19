@@ -14,8 +14,8 @@
     <ul>
       <li>In charge of the production environment for Wordpress sites generating +$10m in revenue</li>
       <li>Design and implement business-critical tools for financial visibility, and other key-metric data tracking (Node.js, Vue)</li>
-      <li>Scale the development team from 1 to 4 engineers, and lead the team through encouraging feedback</li>
-      <li>Project planning and coordination with other teams</li>
+      <li>Scale the development team from 1 to 4 engineers, mentoring and leading with empathy and honest feedback</li>
+      <li>Project planning, coordination, and reporting with stakeholders of various levels of technical knowledge</li>
     </ul>
     <div class="subtitle"><span>Senior Full-Stack Engineer</span><span>2016 - 2018</span></div>
     <ul>
